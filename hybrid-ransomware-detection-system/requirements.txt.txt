@@ -1,0 +1,10 @@
+psutil
+torch
+torchvision
+torchaudio
+torch-geometric
+numpy
+joblib
+scikit-learn
+pandas
+matplotlib
